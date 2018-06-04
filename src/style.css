@@ -1,0 +1,7 @@
+body {
+    color: blue;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    background: url('./icon.jpg');
+}
